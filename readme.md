@@ -54,5 +54,7 @@ https://mintlyfy-html-css.vercel.app/
 
 ## 📸 Screenshots
 
-![alt text](image.png)
-![Features Section](screenshots/features.png)
+- Navigation bar (header)
+![alt text](/resources/hero.png)
+
+- Hero section with call-to-action
