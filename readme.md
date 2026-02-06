@@ -55,5 +55,5 @@ https://mintlyfy-html-css.vercel.app/
 ## 📸 Screenshots
 
 ```md
-![Hero Section](resources/hero.png)
+![alt text](resources/hero.png)
 ![Features Section](screenshots/features.png)
