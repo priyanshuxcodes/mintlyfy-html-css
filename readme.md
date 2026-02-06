@@ -7,7 +7,7 @@ A pixel-inspired **HTML & CSS clone of the Mintlify landing page**, built to pra
 ## 🚀 Live Demo
 
 🔗 **Deployed Link:**  
-https://your-deployed-link-here.vercel.app
+https://mintlyfy-html-css.vercel.app/
 
 ---
 
@@ -15,8 +15,10 @@ https://your-deployed-link-here.vercel.app
 
 - Navigation bar (header)
 - Hero section with call-to-action
+- "Trusted By" section
 - Feature highlights
 - Documentation-style content layout
+- User stories
 - Footer section
 
 ---
@@ -27,7 +29,6 @@ https://your-deployed-link-here.vercel.app
 - **CSS3** – Styling and layout
 - **Flexbox** – One-dimensional layouts
 - **CSS Grid** – Complex section layouts
-- **Google Fonts** – Typography
 - **Vercel** – Deployment
 
 > ⚠️ No JavaScript or frameworks were used in this project.
@@ -37,22 +38,22 @@ https://your-deployed-link-here.vercel.app
 ## 🎨 Fonts and Colors Used
 
 ### Fonts
-- Primary: `Inter`, sans-serif
+- Primary: Arial, Helvetica, sans-serif
 - Fallback: `system-ui`, `Arial`
 
 ### Colors
 | Purpose | Color |
 |------|------|
-| Primary Text | `#0f172a` |
+| Primary Text | `#111` |
 | Secondary Text | `#475569` |
-| Accent | `#22c55e` |
+| Accent | `#4CAF50` |
 | Background | `#ffffff` |
-| Borders | `#e5e7eb` |
+| Borders | `#eee` |
 
 ---
 
 ## 📸 Screenshots
 
 ```md
-![Hero Section](screenshots/hero.png)
+![Hero Section](resources/hero.png)
 ![Features Section](screenshots/features.png)
